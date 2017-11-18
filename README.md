@@ -8,5 +8,3 @@
 ---
 ###  Image show:<br>
 ![1](https://github.com/Dengqlbq/Bing-and-Baidu-picture-download/raw/master/1.png)
-
----
