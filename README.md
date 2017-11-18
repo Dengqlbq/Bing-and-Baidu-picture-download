@@ -1,4 +1,4 @@
-# Picture downloader
+# Bing-and-Baidu-picture-download
 
 ### 目标：从百度图片或Bing图片中下载指定数量与关键字相关图片并存储到指定位置
 
